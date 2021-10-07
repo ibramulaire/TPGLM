@@ -4,7 +4,7 @@ package fr.ufrsciencestech.panier;
  *
  * @author roudet
  */
-public class Orange {
+public class Orange implements Fruit {
     private double prix;
     private String origine;
 	
